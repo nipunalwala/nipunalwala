@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/nipunalwala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+the+making;Building+RAG+systems+that+run+fully+offline;LLMs+%2B+Retrieval+%2B+Agents+%3D+%E2%9D%A4%EF%B8%8F;Computer+Engineering+%40+SPIT+Mumbai" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+the+making;Building+RAG+systems+that+run+fully+offline;LLMs+%2B+Retrieval+%2B+Agents+%3D+%E2%9D%A4%EF%B8%8F;Computer+Engineering+Undergraduate" alt="Typing SVG" />
   </a>
 </p>
 
