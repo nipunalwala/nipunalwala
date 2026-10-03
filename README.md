@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nipun Alwala 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/nipunalwala18-cmyk">
+  <a href="https://github.com/nipunalwala">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+the+making;Building+RAG+systems+that+run+fully+offline;LLMs+%2B+Retrieval+%2B+Agents+%3D+%E2%9D%A4%EF%B8%8F;Computer+Engineering+%40+SPIT+Mumbai" alt="Typing SVG" />
   </a>
 </p>
@@ -17,13 +17,11 @@
 
 ### 🧠 About Me
 
-I'm a Computer Engineering undergrad at **Sardar Patel Institute of Technology, Mumbai** (CGPA 9.08), and I'm genuinely obsessed with **AI and machine learning**, especially the part where models stop being demos and start solving real problems for real people.
+I'm a Computer Engineering undergrad, and I'm genuinely obsessed with **AI and machine learning**, especially the part where models stop being demos and start solving real problems for real people.
 
-- 🔍 I love building **Retrieval-Augmented Generation (RAG)** systems and **agentic LLM workflows**
-- 🔒 I care about **private, offline AI**: local LLMs, local vector stores, no data leaving the building
-- 📄 I enjoy messy real-world data: OCR, document parsing, extraction pipelines
-- 📈 Minor in **Financial & Strategic Management**, so I'm curious about where ML meets finance and trading
-- 🏆 Winner, Internal Smart India Hackathon 2026 · Finalist, SRCC D-Street Investment Competition
+- 🤖 I love experimenting with **LLMs**, building RAG pipelines, tool-calling agents and multi-step workflows with **LangChain** and **LangGraph**
+- 💬 I'm deeply interested in **Natural Language Processing**: teaching machines to understand, classify and reason over human language
+- 📈 I'm passionate about applying **AI and ML to finance**, from analysing financial data to building intelligent tools for lending, budgeting and investing
 
 ---
 
@@ -115,12 +113,12 @@ Android app delivering Cognitive Stimulation Therapy with a rule-based **adaptiv
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nipunalwala18-cmyk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunalwala18-cmyk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nipunalwala&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunalwala&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunalwala18-cmyk&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunalwala&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -129,9 +127,3 @@ Android app delivering Cognitive Stimulation Therapy with a rule-based **adaptiv
   <i>"Models are easy to demo and hard to ship. I like the shipping part."</i><br/><br/>
   ⭐ Always happy to talk about LLMs, RAG, agents, or AI in finance. Reach out!
 </p>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
